@@ -1,0 +1,25 @@
+.button button{
+    width: 140px;
+    height: 60px;
+}
+.button{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    display: flex;
+    gap: 50px;
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 300px;
+    margin:100px auto;
+    background-color: black;
+}
+.count{
+    display: flex;
+    color: white;
+    font-size: 50px;
+}
